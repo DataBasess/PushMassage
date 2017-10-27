@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "154786789097",
+    "firebase_url": "https://fir-crud-a8259.firebaseio.com",
+    "project_id": "fir-crud-a8259",
+    "storage_bucket": "fir-crud-a8259.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154786789097:android:c6fc065e6099855c",
+        "android_client_info": {
+          "package_name": "ionic.start"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154786789097-g5u2jdchq1i2rtv9ttve0fsce24o1iav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGGXM6H7NEmFWvUUYw6-uyYYL9PmdpV0c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
